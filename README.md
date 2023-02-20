@@ -5,6 +5,7 @@ Solo para mi referencia
 
 Son las listas de palabras que se tienen que usar pero no te limites a esas son las que veo que de entrada son mas comunes 
 
+```
 big.txt
 CGIs.txt
 CGI-XPlatform.fuzz.txt
@@ -25,3 +26,4 @@ web-extensions.txt # extenciones pero de webs podria ser util
 web-mutations.txt # mas extenciones
 extensions-most-common.fuzz.txt # extenciones 
 extensions-skipfish.fuzz.txt # extenciones 
+```
