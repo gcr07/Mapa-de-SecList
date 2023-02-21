@@ -27,3 +27,27 @@ web-mutations.txt # mas extenciones
 extensions-most-common.fuzz.txt # extenciones 
 extensions-skipfish.fuzz.txt # extenciones 
 ```
+Sin embargo si quieres escanear con todas las lista como fue el caso en la maquina Interface pues voy a poner todas las listas
+
+
+```
+AdobeCQ-AEM.txt                                                                                                                                                                                                                             
+AdobeXML.fuzz.txt                                                                                                                                                                                                                           
+aem2.txt                                                                                                                                                                                                                                    
+Apache.fuzz.txt                                                                                                                                                                                                                             
+ApacheTomcat.fuzz.txt                                                                                                                                                                                                                       
+apache.txt                                                                                                                                                                                                                                  
+axis.txt                                                                                                                                                                                                                                    
+big.txt                                                                                                                                                                                                                                     
+burp-parameter-names.txt 
+
+```
+
+
+
+
+
+
+
+
+
