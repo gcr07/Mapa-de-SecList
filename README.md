@@ -194,7 +194,6 @@ apache.txt
 axis.txt                                                                                                                                                                                                                                    
 big.txt                                                                                                                                                                                                                                     
 burp-parameter-names.txt 
-
 CGI-HTTP-POST.fuzz.txt                                                                                                                                                                                                                      
 CGI-HTTP-POST-Windows.fuzz.txt                                                                                                                                                                                                              
 CGI-Microsoft.fuzz.txt                                                                                                                                                                                                                      
@@ -265,7 +264,6 @@ oracle.txt
 Passwords.fuzz.txt
 PHP.fuzz.txt
 proxy-conf.fuzz.txt
-Public-Source-Repo-Issues.json
 quickhits.txt
 raft-large-directories-lowercase.txt
 raft-large-directories.txt
