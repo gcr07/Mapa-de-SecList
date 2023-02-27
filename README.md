@@ -219,8 +219,6 @@ common.txt
 confluence-administration.txt                                                                                                                                                                                                               
 default-web-root-directory-linux.txt                                                                                                                                                                                                        
 default-web-root-directory-windows.txt 
-
-
 directory-list-1.0.txt                                                                                                                                                                                                                      
 directory-list-2.3-big.txt                                                                                                                                                                                                                  
 directory-list-2.3-medium.txt                                                                                                                                                                                                               
@@ -237,7 +235,7 @@ FatwireCMS.fuzz.txt
 fnf-fuzz.txt                                                                                                                                                                                                                                
 Frontpage.fuzz.txt                                                                                                                                                                                                                          
 frontpage.txt                                                                                                                                                                                                                               
-golang.txt                                                                                                                                                                                                                                  
+golang.txt                                                                                                                                                                                                                          
 graphql.txt
 hashicorp-vault.txt
 hpsmh.txt
@@ -269,7 +267,6 @@ PHP.fuzz.txt
 proxy-conf.fuzz.txt
 Public-Source-Repo-Issues.json
 quickhits.txt
-
 raft-large-directories-lowercase.txt
 raft-large-directories.txt
 raft-large-extensions-lowercase.txt
@@ -295,7 +292,6 @@ raft-small-files.txt
 raft-small-words-lowercase.txt
 raft-small-words.txt
 Randomfiles.fuzz.txt
-
 reverse-proxy-inconsistencies.txt
 RobotsDisallowed-Top1000.txt
 RobotsDisallowed-Top100.txt
