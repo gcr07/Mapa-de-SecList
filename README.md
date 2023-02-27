@@ -226,7 +226,6 @@ directory-list-lowercase-2.3-big.txt
 directory-list-lowercase-2.3-medium.txt                                                                                                                                                                                                     
 directory-list-lowercase-2.3-small.txt                                                                                                                                                                                                      
 dirsearch.txt  
-
 domino-dirs-coldfusion39.txt                                                                                                                                                                                                                
 domino-endpoints-coldfusion39.txt                                                                                                                                                                                                           
 elmah.txt                                                                                                                                                                                                                                   
