@@ -318,6 +318,26 @@ websphere.txt
 ```
 
 
+## DNS list
+
+/opt/SecLists/Discovery/DNS
+
+```
+bitquark-subdomains-top100000.txt
+deepmagic.com-prefixes-top50000.txt
+deepmagic.com-prefixes-top500.txt
+dns-Jhaddix.txt
+fierce-hostlist.txt
+italian-subdomains.txt
+namelist.txt
+shubs-stackoverflow.txt
+shubs-subdomains.txt
+sortedcombined-knock-dnsrecon-fierce-reconng.txt
+subdomains-top1million-110000.txt
+subdomains-top1million-20000.txt
+subdomains-top1million-5000.txt
+
+```
 
 
 
