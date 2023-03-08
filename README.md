@@ -184,6 +184,8 @@ websphere.txt
 
 # La lista completa Aqui esta
 
+/opt/SecLists/Discovery/Web-Content
+
 ```
 AdobeCQ-AEM.txt                                                                                                                                                                                                                             
 AdobeXML.fuzz.txt                                                                                                                                                                                                                           
