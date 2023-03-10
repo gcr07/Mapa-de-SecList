@@ -341,6 +341,22 @@ subdomains-top1million-5000.txt
 
 ```
 
+## API
+
+
+> ls -la | grep -v "drwxr-xr-x" | awk {'print $9'}
+
+```
+actions-lowercase.txt
+actions.txt
+actions-uppercase.txt
+api-endpoints.txt
+api-seen-in-wild.txt
+objects-lowercase.txt
+objects.txt
+objects-uppercase.txt
+
+```
 
 
 
